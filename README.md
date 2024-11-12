@@ -44,27 +44,14 @@ List the contents of the "MyLab" directory.
 ![image](https://github.com/user-attachments/assets/70c78492-9510-4205-8dc5-2aaa6beee0be)
 
 
-
-
-## COMMAND AND OUTPUT
-
-
 ## Exercise 2: Advanced Batch Scripting
 Create a batch script named "BackupScript.bat" that creates a backup of files with the ".docx" extension from the "Documents" folder to a new folder named "DocBackup" on the desktop.
+
+## OUTPUT
 
 ![image](https://github.com/user-attachments/assets/78e1f76b-3e07-482d-b50b-85dc4f5aafad)
 
 ![image](https://github.com/user-attachments/assets/5ff3e27c-15b2-42c2-a811-6bf703f2f979)
-
-
-
-
-
-## OUTPUT
-
-
-
-
 
 # RESULT:
 The commands/batch files are executed successfully.
